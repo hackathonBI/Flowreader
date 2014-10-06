@@ -16,4 +16,4 @@ Raw CSV sample is [here](https://github.com/hackathonBI/Flowreader/tree/master/s
 - First 16kb data
 - Author Name
 
-Flowreader's list of business problems: TBD.
+Flowreader's list of business problems: [here](https://github.com/hackathonBI/Flowreader/blob/master/Tasks.md).
