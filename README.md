@@ -1,6 +1,6 @@
 # Data Description
 
-Raw CSV sample is [here](https://github.com/hackathonBI/Flowreader/blob/master/sample%20data/sample.csv).
+Raw CSV sample is [here](https://github.com/hackathonBI/Flowreader/tree/master/sample%20data).
 
 
 ## Columns
@@ -8,11 +8,11 @@ Raw CSV sample is [here](https://github.com/hackathonBI/Flowreader/blob/master/s
 - Timestamp: Article Fetch date
 - Article ID (md5(URL))
 - Article URL (xml)
-- Article Last Published Date
+- Article Last Published Date (!FIX!)
 - Title
 - Article Screenshot URL
 - Article URL
-- Page URL
+- Page URL (!FIX!)
 - First 16kb data
 - Author Name
 
